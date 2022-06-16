@@ -1,0 +1,14 @@
+.Header {
+    width: 600px;
+    background: rgb(167, 167, 167);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    font-size: xx-small;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
